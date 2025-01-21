@@ -314,3 +314,17 @@ filegroup {
         "com.android.biometrics.virtual.face-file_contexts",
     ],
 }
+
+filegroup {
+    name: "com.android.vending-file_contexts",
+    srcs: [
+        "com.android.vending-file_contexts",
+    ],
+}
+
+filegroup {
+    name: "net.tharow.garrison-file_contexts",
+    srcs: [
+        "net.tharow.garrison-file_contexts",
+    ],
+}
